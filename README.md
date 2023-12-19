@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hi, I am Nidhi Ranawat a budding software developer on an endless journey of learning and growth.
 <!--
 **Nidhi-Ranawat/Nidhi-Ranawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
