@@ -1,6 +1,6 @@
 # Meet Nidhi Ranawat 👋
 
-<img src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="Profile Picture" width="200" height="250">
+<img src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="Profile Picture" width="250" height="200">
 
 ## About Me ℹ️
 
