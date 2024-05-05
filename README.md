@@ -4,7 +4,7 @@
 
 ## About Me ℹ️
 
-Welcome to my GitHub profile! I am Nidhi Ranawat a budding software developer on an endless journey of learning and growth. I'm deeply passionate about all things data science and love leveraging data to gain insights, solve problems, and drive meaningful decisions.
+Welcome to my GitHub profile! I am Nidhi Ranawat a budding software developer on an endless journey of learning and growth. I'm deeply passionate about data science in all its facets and enjoy leveraging data to gain insights, solve problems, and drive meaningful decisions.
 Feel free to explore my repositories to see my work!
 
 ## 🌱 I'm Currently Learning 
