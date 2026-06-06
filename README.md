@@ -4,23 +4,46 @@
 
 ## About Me ℹ️
 
-Welcome to my GitHub profile! I am Nidhi Ranawat a budding software developer on an endless journey of learning and growth. I'm deeply passionate about data science in all its facets and enjoy leveraging data to gain insights, solve problems, and drive meaningful decisions.
+Welcome to my GitHub profile! I'm a Computer Science graduate and Software Engineer passionate about building intelligent, scalable, and impactful software solutions.
 Feel free to explore my repositories to see my work!
 
-## 🌱 I'm Currently Learning 
+My experience spans across:
 
-I'm currently diving deeper into Frontend to expand my skill set and tackle new challenges using my creativity.
+🤖 Generative AI & Large Language Models (LLMs)
+🧠 Agentic AI Systems & RAG Applications
+📊 Data Science, Analytics & Machine Learning
+⚙️ Backend Development with Python & FastAPI
+🌐 Full-Stack Development using Angular & React
+☁️ Cloud Technologies (AWS & Azure)
+
+I enjoy solving real-world business problems by combining software engineering, artificial intelligence, and data-driven decision making.
+
+## 🌱 Currently Exploring
+
+- Advanced AI Agent Architectures
+- Production-Ready GenAI Systems
+- Cloud-Native Applications
+- Responsible AI
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" alt="blender" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>          
-</p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>
+<!-- Azure AI Foundry -->
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/azure-ai.png" alt="Azure AI Foundry" width="45" height="45"/>
+
+<!-- OpenAI -->
+<img src="https://cdn.simpleicons.org/openai" alt="OpenAI" width="45" height="45"/>
+
+<!-- LangChain -->
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langchain-color.png" alt="LangChain" width="45" height="45"/>
+
+<!-- Streamlit -->
+<img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" width="45" height="45"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi-Ranawat)](https://github.com/Nidhi-Ranawat/github-readme-stats)
+
+Python • FastAPI • React • PostgreSQL • Azure • Azure AI Foundry • OpenAI • LangChain • Pandas • NumPy • Scikit-Learn • Git • VS Code
 
 ## 💬 Let's Connect
 
